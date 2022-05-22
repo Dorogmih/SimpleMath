@@ -1,7 +1,7 @@
 # SimpleMath
 SimpleMath is a simple console calculator made in C++ language.
 
-It can multiply, divide, add, substruct numbers. Also that program can count the power of, count the root of, divide with remains and count the factorial of numbers.
+It can multiply, divide, add, substruct numbers. Also that program can count the power of, count the root of and divide with remains numbers.
 
 Guide for calculator SimpleMath 8.1
 
@@ -18,13 +18,11 @@ The first summand is entering, symbol "+" is after it. Later second summand is e
 	Substruction
 The minuend is entering, symbol "-" is after it. Later deductible is entering.
 	Count the power of
-The number is entering, symbol "**" is after it. Later value of powering (squared - 2, cubed - 3 and more) is entering.
+The number is entering, symbol "^" is after it. Later value of powering (squared - 2, cubed - 3 and more) is entering.
 	Count the root of
-The number is entering, symbol "//" is after it. Later value of rooting (square root - 2, cube root - 3 and more) is entering.
+The number is entering, symbol "v" is after it. Later value of rooting (square root - 2, cube root - 3 and more) is entering.
 	Division with remains
-The divider is entering, symbol "/." is after it. Later divisible is entering.
-	Count the factorial of
-The number is entering, symbol "!" is after it.
+The divider is entering, symbol "?" is after it. Later divisible is entering.
 
 3. License
 Program SimpleMath is absolutely free and spreading under free license.
