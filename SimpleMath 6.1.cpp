@@ -83,7 +83,7 @@ int main(int argc, char* argv[]) {
         total_ = fact(num1);
         cout << "Результат: " << total_ << endl;
     };
-    cout << "" << endl;
+    cout << endl;
     system("pause");
     return 0;
 }
